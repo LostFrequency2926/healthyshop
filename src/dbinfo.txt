@@ -1,0 +1,3 @@
+user  healthyShop
+pass: Fh9K5Z7ArnaryeRX
+con   mongodb+srv://healthyShop:Fh9K5Z7ArnaryeRX@cluster0.ieztwhj.mongodb.net/test
